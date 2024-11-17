@@ -1,0 +1,3 @@
+D:/sourcemod/alliedmodders/metamod-source/samples/soup-object/cmake-build-debug/CMakeFiles/soup-object.dir
+D:/sourcemod/alliedmodders/metamod-source/samples/soup-object/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/sourcemod/alliedmodders/metamod-source/samples/soup-object/cmake-build-debug/CMakeFiles/rebuild_cache.dir
