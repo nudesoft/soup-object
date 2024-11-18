@@ -1,0 +1,4 @@
+[submodule "modules/uWebSockets"]
+	path = modules/uWebSockets
+	url = https://github.com/uNetworking/uWebSockets.git
+	branch = master
