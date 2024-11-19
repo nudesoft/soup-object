@@ -1,0 +1,11 @@
+{
+    "name": "Simple game server name",
+
+    "game": "cs2",
+
+    "port": 8000,
+
+    "observes": [
+        "wss://127.0.0.1:3300/websockets"
+    ]
+}

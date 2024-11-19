@@ -1,0 +1,15 @@
+{
+    // app name
+    "name": "Simple game server name",
+
+    // app game server type
+    "game": "cs2",
+
+    // app port
+    "port": 8000,
+
+    // wss monitoring aggregators (game servers browser [clients] use aggregators)
+    "observes": [
+        "wss://127.0.0.1:3300/websockets"
+    ]
+}
